@@ -1,0 +1,23 @@
+
+Node * constructTree(vector<int>&postorder)
+{
+    int index = postorder.size() - 1;
+    return constructTreeHelper(postorder, INT_MIN,INT_MAX,index);
+}
+Node * constructTreeHelper(vector<int>&post, int min, int max, int &index)
+{
+    if(index < 0)
+        return nullptr;
+
+    if(post[index] > min && post[index] < max)
+    {
+        Node root = new Node(post[index]);
+        index--;
+        root->left = constructTreeHelper(post,index);
+        root->right = constructTreeHelper(post, index);
+        return root;
+    }
+    else{
+        return nullptr;
+    }
+}

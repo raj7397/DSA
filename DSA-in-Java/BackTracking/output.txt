@@ -1,0 +1,386 @@
+sr: 0 sc: 0
+floodfill
+sr: -1 sc: 0
+floodfill
+sr: 0 sc: -1
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: -1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 2 sc: -1
+floodfill
+sr: 3 sc: 0
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: -1 sc: 1
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: -1 sc: 2
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+ddrttrdd
+---------------------------
+true true true 
+true true true 
+true true false 
+---------------------------
+sr: 1 sc: 3
+floodfill
+sr: 0 sc: 3
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: -1 sc: 2
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: -1 sc: 1
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 3
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+ddrtrd
+---------------------------
+true false false 
+true true true 
+true true false 
+---------------------------
+sr: 1 sc: 3
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 3 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+ddrr
+---------------------------
+true false false 
+true false false 
+true true false 
+---------------------------
+sr: 1 sc: 1
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: -1 sc: 1
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: -1 sc: 2
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+drtrdd
+---------------------------
+true true true 
+true true true 
+false false false 
+---------------------------
+sr: 1 sc: 3
+floodfill
+sr: 0 sc: 3
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 2 sc: -1
+floodfill
+sr: 3 sc: 0
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 3 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+drdr
+---------------------------
+true false false 
+true true false 
+false true false 
+---------------------------
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: -1 sc: 2
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: -1 sc: 1
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 3
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+drrd
+---------------------------
+true false false 
+true true true 
+false false false 
+---------------------------
+sr: 1 sc: 3
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: -1 sc: 1
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: -1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 2 sc: -1
+floodfill
+sr: 3 sc: 0
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 3 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+rdldrr
+---------------------------
+true true false 
+true true false 
+true true false 
+---------------------------
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: -1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: -1
+floodfill
+sr: 3 sc: 0
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 3 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+rddr
+---------------------------
+true true false 
+false true false 
+false true false 
+---------------------------
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: -1 sc: 2
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 3
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+rdrd
+---------------------------
+true true false 
+false true true 
+false false false 
+---------------------------
+sr: 1 sc: 3
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: -1 sc: 2
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: 1 sc: 2
+floodfill
+sr: 0 sc: 2
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 0 sc: 1
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: -1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 2 sc: -1
+floodfill
+sr: 3 sc: 0
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 3 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+rrdlldrr
+---------------------------
+true true true 
+true true true 
+true true false 
+---------------------------
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 1 sc: 0
+floodfill
+sr: 0 sc: 0
+floodfill
+sr: 1 sc: -1
+floodfill
+sr: 2 sc: 0
+floodfill
+sr: 1 sc: 1
+floodfill
+sr: 2 sc: -1
+floodfill
+sr: 3 sc: 0
+floodfill
+sr: 2 sc: 1
+floodfill
+sr: 3 sc: 1
+floodfill
+sr: 2 sc: 2
+floodfill
+rrdldr
+---------------------------
+true true true 
+false true true 
+false true false 
+---------------------------
+sr: 1 sc: 2
+floodfill
+sr: 2 sc: 2
+floodfill
+rrdd
+---------------------------
+true true true 
+false false true 
+false false false 
+---------------------------
+sr: 1 sc: 3
+floodfill
+sr: 0 sc: 3
+floodfill
